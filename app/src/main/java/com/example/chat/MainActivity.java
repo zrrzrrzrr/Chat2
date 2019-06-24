@@ -59,4 +59,6 @@ public class MainActivity extends AppCompatActivity {
         String sdk = SDKManager.initSDK();
         Toast.makeText(this,sdk,Toast.LENGTH_LONG).show();
     }
+
+    //esrtdyuioxdfcguhijxcvbjngdfc
 }
